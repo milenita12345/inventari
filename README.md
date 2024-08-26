@@ -1,0 +1,2 @@
+# inventari
+proyecto avanzado
